@@ -1,1 +1,3 @@
 djangorestframework
+redisearch[hiredis]
+django_redis
